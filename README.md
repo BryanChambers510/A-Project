@@ -12,4 +12,4 @@ In this project the A* algorithm is implemented to find the shortest distance be
                 current distance = new distance
 
         return distances
-        
+ There is only one file for this project, it is written in Python. In the file there is an example of how the code output that shows how it works, effectively listing the suggested route between two vertices.        
